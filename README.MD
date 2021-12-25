@@ -3,5 +3,5 @@
 ola! bem vindo ao meu livro de receitas :wave:
 
 - strogonoff de frango :chicken:
-- bolo de chocolate
+- bolo de chocolate     
 - pave de cupu
